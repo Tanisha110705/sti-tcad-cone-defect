@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="944" height="600" viewBox="0 0 944 600" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">STI structure evolution</title>
+<desc id="d">Seven conceptual cross-sections from bare substrate to CMP with embedded cone defect.</desc>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2a30"/></marker>
+<marker id="arrR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+<marker id="arrB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f6fb2"/></marker>
+</defs>
+<rect width="944" height="600" fill="#ffffff"/>
+<text x="472.0" y="28.0" font-size="18" text-anchor="middle" font-weight="bold" fill="#1f2a30">Structure evolution through the STI flow</text>
+<text x="472.0" y="47.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#5b6770">Conceptual cross-sections drawn to reported dimensions (pad 12 nm, nitride 120 nm, trench 200 × 180 nm, cone 100 nm)</text>
+<text x="130.8" y="83.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">1  Substrate</text>
+<polygon points="30.0,175.0 231.6,175.0 231.6,280.0 30.0,280.0" fill="#8a9ea8" stroke="#5d727c" stroke-width="1" stroke-linejoin="round"/>
+<text x="358.4" y="83.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">2  Pad oxide + nitride</text>
+<polygon points="257.6,175.0 459.2,175.0 459.2,280.0 257.6,280.0" fill="#8a9ea8" stroke="#5d727c" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="257.6,170.0 459.2,170.0 459.2,175.0 257.6,175.0" fill="#56c3d8" stroke="#3fa7bd" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="257.6,119.6 459.2,119.6 459.2,170.0 257.6,170.0" fill="#e6dc84" stroke="#a59a3a" stroke-width="1" stroke-linejoin="round"/>
+<text x="586.0" y="83.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">3  Litho + hard-mask open</text>
+<polygon points="485.2,175.0 686.8,175.0 686.8,280.0 485.2,280.0" fill="#8a9ea8" stroke="#5d727c" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="485.2,170.0 548.2,170.0 548.2,175.0 485.2,175.0" fill="#56c3d8" stroke="#3fa7bd" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="485.2,119.6 548.2,119.6 548.2,170.0 485.2,170.0" fill="#e6dc84" stroke="#a59a3a" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="623.8,170.0 686.8,170.0 686.8,175.0 623.8,175.0" fill="#56c3d8" stroke="#3fa7bd" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="623.8,119.6 686.8,119.6 686.8,170.0 623.8,170.0" fill="#e6dc84" stroke="#a59a3a" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="485.2,94.4 548.2,94.4 548.2,119.6 485.2,119.6" fill="#d7a7d9" stroke="#8e5a91" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="623.8,94.4 686.8,94.4 686.8,119.6 623.8,119.6" fill="#d7a7d9" stroke="#8e5a91" stroke-width="1" stroke-linejoin="round"/>
+<text x="813.6" y="83.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">4  RIE trench etch</text>
+<polygon points="712.8,175.0 775.8,175.0 778.7,259.0 848.5,259.0 851.4,175.0 914.4,175.0 914.4,280.0 712.8,280.0" fill="#8a9ea8" stroke="#5d727c" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="712.8,170.0 775.8,170.0 775.8,175.0 712.8,175.0" fill="#56c3d8" stroke="#3fa7bd" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="712.8,119.6 775.8,119.6 775.8,170.0 712.8,170.0" fill="#e6dc84" stroke="#a59a3a" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="851.4,170.0 914.4,170.0 914.4,175.0 851.4,175.0" fill="#56c3d8" stroke="#3fa7bd" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="851.4,119.6 914.4,119.6 914.4,170.0 851.4,170.0" fill="#e6dc84" stroke="#a59a3a" stroke-width="1" stroke-linejoin="round"/>
+<line x1="790.5" y1="103.6" x2="790.5" y2="131.6" stroke="#1f6fb2" stroke-width="1.4" marker-end="url(#arrB)"/>
+<line x1="813.6" y1="103.6" x2="813.6" y2="131.6" stroke="#1f6fb2" stroke-width="1.4" marker-end="url(#arrB)"/>
+<line x1="836.7" y1="103.6" x2="836.7" y2="131.6" stroke="#1f6fb2" stroke-width="1.4" marker-end="url(#arrB)"/>
+<text x="130.8" y="348.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">5  Cone defect</text>
+<polygon points="30.0,440.0 93.0,440.0 95.9,524.0 120.3,524.0 129.8,482.1 130.0,482.1 130.3,482.0 130.5,482.0 130.8,482.0 131.1,482.0 131.3,482.0 131.6,482.1 131.8,482.1 141.3,524.0 165.7,524.0 168.6,440.0 231.6,440.0 231.6,545.0 30.0,545.0" fill="#8a9ea8" stroke="#5d727c" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="30.0,435.0 93.0,435.0 93.0,440.0 30.0,440.0" fill="#56c3d8" stroke="#3fa7bd" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="30.0,384.6 93.0,384.6 93.0,435.0 30.0,435.0" fill="#e6dc84" stroke="#a59a3a" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="168.6,435.0 231.6,435.0 231.6,440.0 168.6,440.0" fill="#56c3d8" stroke="#3fa7bd" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="168.6,384.6 231.6,384.6 231.6,435.0 168.6,435.0" fill="#e6dc84" stroke="#a59a3a" stroke-width="1" stroke-linejoin="round"/>
+<rect x="125.8" y="477.8" width="10.1" height="4.2" rx="2" fill="#7a2e1d" stroke="none" stroke-width="1"/>
+<line x1="105.6" y1="368.6" x2="105.6" y2="396.6" stroke="#1f6fb2" stroke-width="1.4" marker-end="url(#arrB)"/>
+<line x1="130.8" y1="368.6" x2="130.8" y2="396.6" stroke="#1f6fb2" stroke-width="1.4" marker-end="url(#arrB)"/>
+<line x1="156.0" y1="368.6" x2="156.0" y2="396.6" stroke="#1f6fb2" stroke-width="1.4" marker-end="url(#arrB)"/>
+<text x="358.4" y="348.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">6  HDP oxide fill</text>
+<polygon points="257.6,440.0 320.6,440.0 323.5,524.0 347.9,524.0 357.4,482.1 357.6,482.1 357.9,482.0 358.1,482.0 358.4,482.0 358.7,482.0 358.9,482.0 359.2,482.1 359.4,482.1 368.9,524.0 393.3,524.0 396.2,440.0 459.2,440.0 459.2,545.0 257.6,545.0" fill="#8a9ea8" stroke="#5d727c" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="257.6,435.0 320.6,435.0 320.6,440.0 257.6,440.0" fill="#56c3d8" stroke="#3fa7bd" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="257.6,384.6 320.6,384.6 320.6,435.0 257.6,435.0" fill="#e6dc84" stroke="#a59a3a" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="396.2,435.0 459.2,435.0 459.2,440.0 396.2,440.0" fill="#56c3d8" stroke="#3fa7bd" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="396.2,384.6 459.2,384.6 459.2,435.0 396.2,435.0" fill="#e6dc84" stroke="#a59a3a" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="257.6,363.6 459.2,363.6 459.2,384.6 396.2,384.6 396.2,440.0 393.3,524.0 368.9,524.0 359.4,482.1 359.2,482.1 358.9,482.0 358.7,482.0 358.4,482.0 358.1,482.0 357.9,482.0 357.6,482.1 357.4,482.1 347.9,524.0 323.5,524.0 320.6,440.0 320.6,384.6 257.6,384.6" fill="#a8e6f2" stroke="#3fa7bd" stroke-width="1" stroke-linejoin="round"/>
+<text x="586.0" y="348.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">7  CMP (stop on nitride)</text>
+<polygon points="485.2,440.0 548.2,440.0 551.1,524.0 575.5,524.0 585.0,482.1 585.2,482.1 585.5,482.0 585.7,482.0 586.0,482.0 586.3,482.0 586.5,482.0 586.8,482.1 587.0,482.1 596.5,524.0 620.9,524.0 623.8,440.0 686.8,440.0 686.8,545.0 485.2,545.0" fill="#8a9ea8" stroke="#5d727c" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="485.2,435.0 548.2,435.0 548.2,440.0 485.2,440.0" fill="#56c3d8" stroke="#3fa7bd" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="485.2,384.6 548.2,384.6 548.2,435.0 485.2,435.0" fill="#e6dc84" stroke="#a59a3a" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="623.8,435.0 686.8,435.0 686.8,440.0 623.8,440.0" fill="#56c3d8" stroke="#3fa7bd" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="623.8,384.6 686.8,384.6 686.8,435.0 623.8,435.0" fill="#e6dc84" stroke="#a59a3a" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="548.2,384.6 623.8,384.6 623.8,440.0 620.9,524.0 596.5,524.0 587.0,482.1 586.8,482.1 586.5,482.0 586.3,482.0 586.0,482.0 585.7,482.0 585.5,482.0 585.2,482.1 585.0,482.1 575.5,524.0 551.1,524.0 548.2,440.0" fill="#a8e6f2" stroke="#3fa7bd" stroke-width="1" stroke-linejoin="round"/>
+<text x="712.8" y="351.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2a30">Legend</text>
+<rect x="712.8" y="365.0" width="16.0" height="14.0" rx="0" fill="#8a9ea8" stroke="#5d727c" stroke-width="0.6"/>
+<text x="736.8" y="377.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2a30">Silicon</text>
+<rect x="712.8" y="387.0" width="16.0" height="14.0" rx="0" fill="#56c3d8" stroke="#5d727c" stroke-width="0.6"/>
+<text x="736.8" y="399.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2a30">Pad oxide</text>
+<rect x="712.8" y="409.0" width="16.0" height="14.0" rx="0" fill="#e6dc84" stroke="#5d727c" stroke-width="0.6"/>
+<text x="736.8" y="421.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2a30">Si₃N₄ hard mask</text>
+<rect x="712.8" y="431.0" width="16.0" height="14.0" rx="0" fill="#d7a7d9" stroke="#5d727c" stroke-width="0.6"/>
+<text x="736.8" y="443.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2a30">Photoresist</text>
+<rect x="712.8" y="453.0" width="16.0" height="14.0" rx="0" fill="#a8e6f2" stroke="#5d727c" stroke-width="0.6"/>
+<text x="736.8" y="465.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2a30">HDP oxide</text>
+<rect x="712.8" y="475.0" width="16.0" height="14.0" rx="0" fill="#7a2e1d" stroke="#5d727c" stroke-width="0.6"/>
+<text x="736.8" y="487.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2a30">Etch residue (micromask)</text>
+<line x1="712.8" y1="505.0" x2="712.8" y2="527.0" stroke="#1f6fb2" stroke-width="1.4" marker-end="url(#arrB)"/>
+<text x="724.8" y="521.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2a30">Directional ions (RIE)</text>
+<text x="472.0" y="590.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#5b6770" font-style="italic">Conceptual drawing — not a Sentaurus output. Actual Sentaurus cut-planes: assets/tcad/. Nitride strip (report step 9) not drawn: screenshots still show nitride.</text>
+</svg>

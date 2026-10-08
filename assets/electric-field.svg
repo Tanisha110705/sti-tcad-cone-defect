@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Electric-field enhancement</title>
+<desc id="d">Side-by-side conceptual field lines: uniform field across a flat oxide versus crowded field lines at a sharp silicon cone tip.</desc>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2a30"/></marker>
+<marker id="arrR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+<marker id="arrB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f6fb2"/></marker>
+</defs>
+<rect width="900" height="430" fill="#ffffff"/>
+<text x="450.0" y="30.0" font-size="18" text-anchor="middle" font-weight="bold" fill="#1f2a30">Why a sharp tip concentrates the electric field</text>
+<text x="450.0" y="50.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#c0392b">Conceptual field-line sketch — NOT a Sentaurus Device solution (no device simulation in this project)</text>
+<rect x="60.0" y="100.0" width="330.0" height="22.0" rx="0" fill="#b9c4c9" stroke="#5d727c" stroke-width="1"/>
+<rect x="60.0" y="122.0" width="330.0" height="176.0" rx="0" fill="#a8e6f2" stroke="#3fa7bd" stroke-width="1"/>
+<rect x="60.0" y="298.0" width="330.0" height="22.0" rx="0" fill="#8a9ea8" stroke="#5d727c" stroke-width="1"/>
+<line x1="85.0" y1="126.0" x2="85.0" y2="294.0" stroke="#1f6fb2" stroke-width="1.2" marker-end="url(#arrB)"/>
+<line x1="120.0" y1="126.0" x2="120.0" y2="294.0" stroke="#1f6fb2" stroke-width="1.2" marker-end="url(#arrB)"/>
+<line x1="155.0" y1="126.0" x2="155.0" y2="294.0" stroke="#1f6fb2" stroke-width="1.2" marker-end="url(#arrB)"/>
+<line x1="190.0" y1="126.0" x2="190.0" y2="294.0" stroke="#1f6fb2" stroke-width="1.2" marker-end="url(#arrB)"/>
+<line x1="225.0" y1="126.0" x2="225.0" y2="294.0" stroke="#1f6fb2" stroke-width="1.2" marker-end="url(#arrB)"/>
+<line x1="260.0" y1="126.0" x2="260.0" y2="294.0" stroke="#1f6fb2" stroke-width="1.2" marker-end="url(#arrB)"/>
+<line x1="295.0" y1="126.0" x2="295.0" y2="294.0" stroke="#1f6fb2" stroke-width="1.2" marker-end="url(#arrB)"/>
+<line x1="330.0" y1="126.0" x2="330.0" y2="294.0" stroke="#1f6fb2" stroke-width="1.2" marker-end="url(#arrB)"/>
+<line x1="365.0" y1="126.0" x2="365.0" y2="294.0" stroke="#1f6fb2" stroke-width="1.2" marker-end="url(#arrB)"/>
+<text x="225.0" y="90.0" font-size="14" text-anchor="middle" font-weight="bold" fill="#1f2a30">Flat interface: uniform field</text>
+<text x="225.0" y="115.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#1f2a30">conductor above STI (illustrative)</text>
+<text x="225.0" y="313.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#ffffff">silicon</text>
+<text x="225.0" y="344.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#1f2a30">E = V / t_ox  (β = 1)</text>
+<rect x="500.0" y="100.0" width="340.0" height="22.0" rx="0" fill="#b9c4c9" stroke="#5d727c" stroke-width="1"/>
+<rect x="500.0" y="122.0" width="340.0" height="176.0" rx="0" fill="#a8e6f2" stroke="#3fa7bd" stroke-width="1"/>
+<path d="M500,298 L638.0,298 L664.0,203 Q670.0,193 676.0,203 L702.0,298 L840,298 L840,320 L500,320 Z" fill="#8a9ea8" stroke="#5d727c" stroke-width="1"/>
+<line x1="520.0" y1="126.0" x2="538.0" y2="294.0" stroke="#1f6fb2" stroke-width="1.0" marker-end="url(#arrB)"/>
+<line x1="550.0" y1="126.0" x2="564.4" y2="294.0" stroke="#1f6fb2" stroke-width="1.0" marker-end="url(#arrB)"/>
+<line x1="580.0" y1="126.0" x2="590.8" y2="294.0" stroke="#1f6fb2" stroke-width="1.0" marker-end="url(#arrB)"/>
+<path d="M610,126 Q610,165 667.0,191.0" fill="none" stroke="#1f6fb2" stroke-width="1.2" marker-end="url(#arrB)"/>
+<path d="M640,126 Q640,165 668.5,191.0" fill="none" stroke="#1f6fb2" stroke-width="1.2" marker-end="url(#arrB)"/>
+<path d="M670,126 Q670,165 670.0,191.0" fill="none" stroke="#1f6fb2" stroke-width="1.2" marker-end="url(#arrB)"/>
+<path d="M700,126 Q700,165 671.5,191.0" fill="none" stroke="#1f6fb2" stroke-width="1.2" marker-end="url(#arrB)"/>
+<path d="M730,126 Q730,165 673.0,191.0" fill="none" stroke="#1f6fb2" stroke-width="1.2" marker-end="url(#arrB)"/>
+<line x1="760.0" y1="126.0" x2="749.2" y2="294.0" stroke="#1f6fb2" stroke-width="1.0" marker-end="url(#arrB)"/>
+<line x1="790.0" y1="126.0" x2="775.6" y2="294.0" stroke="#1f6fb2" stroke-width="1.0" marker-end="url(#arrB)"/>
+<line x1="820.0" y1="126.0" x2="802.0" y2="294.0" stroke="#1f6fb2" stroke-width="1.0" marker-end="url(#arrB)"/>
+<circle cx="670.0" cy="197" r="14" fill="#c0392b" fill-opacity="0.18" stroke="#c0392b" stroke-width="1"/>
+<text x="692.0" y="189.0" font-size="13" text-anchor="start" font-weight="bold" fill="#c0392b">E_tip ≈ β · E_avg</text>
+<text x="670.0" y="90.0" font-size="14" text-anchor="middle" font-weight="bold" fill="#1f2a30">Cone tip: field lines crowd at small radius</text>
+<text x="670.0" y="115.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#1f2a30">conductor above STI (illustrative)</text>
+<text x="670.0" y="344.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#1f2a30">β ≈ 10 (reported estimate; = h / r_tip = 100 / 10)</text>
+<text x="450.0" y="382.0" font-size="12.5" text-anchor="middle" font-weight="normal" fill="#1f2a30">Thin oxide (larger E_avg) and a sharp tip (larger β) multiply: the tip is the highest-stress point of the STI dielectric.</text>
+<text x="450.0" y="420.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#5b6770" font-style="italic">β value from the report (method not stated); h/r interpretation is a first-order approximation. No field values were simulated.</text>
+</svg>

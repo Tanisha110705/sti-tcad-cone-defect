@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="470" viewBox="0 0 980 470" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Final STI structure</title>
+<desc id="d">Final STI cross-section: two active regions, oxide-filled trench, embedded silicon cone and the thin oxide above its tip.</desc>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2a30"/></marker>
+<marker id="arrR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+<marker id="arrB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f6fb2"/></marker>
+</defs>
+<rect width="980" height="470" fill="#ffffff"/>
+<text x="490.0" y="30.0" font-size="18" text-anchor="middle" font-weight="bold" fill="#1f2a30">Final STI structure with embedded cone defect</text>
+<text x="490.0" y="50.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#5b6770">Planar surface on top; the defect is hidden inside the isolation oxide</text>
+<polygon points="40.0,110.0 212.5,110.0 220.5,340.0 287.2,340.0 313.2,225.3 313.9,225.2 314.6,225.1 315.3,225.0 316.0,225.0 316.7,225.0 317.4,225.1 318.1,225.2 318.8,225.3 344.8,340.0 411.5,340.0 419.5,110.0 592.0,110.0 592.0,409.0 40.0,409.0" fill="#8a9ea8" stroke="#5d727c" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="212.5,110.0 419.5,110.0 419.5,110.0 411.5,340.0 344.8,340.0 318.8,225.3 318.1,225.2 317.4,225.1 316.7,225.0 316.0,225.0 315.3,225.0 314.6,225.1 313.9,225.2 313.2,225.3 287.2,340.0 220.5,340.0 212.5,110.0" fill="#a8e6f2" stroke="#3fa7bd" stroke-width="1" stroke-linejoin="round"/>
+<text x="126.2" y="167.5" font-size="14" text-anchor="middle" font-weight="bold" fill="#1f2a30">Active region</text>
+<text x="505.7" y="167.5" font-size="14" text-anchor="middle" font-weight="bold" fill="#1f2a30">Active region</text>
+<text x="126.2" y="188.2" font-size="11" text-anchor="middle" font-weight="normal" fill="#5b6770">(device side A)</text>
+<text x="505.7" y="188.2" font-size="11" text-anchor="middle" font-weight="normal" fill="#5b6770">(device side B)</text>
+<text x="316.0" y="150.2" font-size="13" text-anchor="middle" font-weight="bold" fill="#1d6f80">STI oxide</text>
+<text x="316.0" y="386.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#1f2a30">p-Si substrate (100), B 1.4 × 10¹⁵ cm⁻³</text>
+<line x1="40.0" y1="98.0" x2="592.0" y2="98.0" stroke="#1f6fb2" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="40.0" y="92.0" font-size="11.5" text-anchor="start" font-weight="normal" fill="#1f6fb2">planarized surface (report: &lt; 5 nm variation after CMP)</text>
+<ellipse cx="316.0" cy="219.0" rx="30" ry="18" fill="#c0392b" fill-opacity="0.14" stroke="#c0392b" stroke-width="1" stroke-dasharray="3,2"/>
+<line x1="346.0" y1="217.0" x2="616.0" y2="185.0" stroke="#c0392b" stroke-width="1"/>
+<text x="622.0" y="173.0" font-size="13" text-anchor="start" font-weight="bold" fill="#c0392b">Thinnest dielectric region</text>
+<text x="622.0" y="189.0" font-size="11.5" text-anchor="start" font-weight="normal" fill="#c0392b">oxide over tip 50–70 nm vs ~150 nm nominal</text>
+<text x="622.0" y="204.0" font-size="11" text-anchor="start" font-weight="normal" fill="#5b6770">(reported; geometry of this value is ambiguous —</text>
+<text x="622.0" y="218.0" font-size="11" text-anchor="start" font-weight="normal" fill="#5b6770">see docs/oxide-thinning.md)</text>
+<line x1="338.7" y1="305.5" x2="616.0" y2="335.5" stroke="#1f2a30" stroke-width="1"/>
+<text x="622.0" y="331.5" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2a30">Embedded Si cone</text>
+<text x="622.0" y="347.5" font-size="11.5" text-anchor="start" font-weight="normal" fill="#5b6770">h ≈ 100 nm, base ≈ 50 nm, r_tip ≈ 8–12 nm</text>
+<text x="622.0" y="362.5" font-size="11.5" text-anchor="start" font-weight="normal" fill="#5b6770">survives fill and CMP untouched (report §5.1)</text>
+<text x="490.0" y="460.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#5b6770" font-style="italic">Conceptual drawing to reported dimensions. Nitride shown removed per report text; the Sentaurus screenshots still show nitride.</text>
+</svg>

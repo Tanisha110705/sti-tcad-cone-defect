@@ -1,0 +1,4 @@
+image,panel,nm_per_px_h,nm_per_px_v,nitride_nm,opening_at_si_surface_nm,main_trench_depth_nm,main_trench_bottom_width_nm,sidewall_angle_left_deg,sidewall_angle_right_deg,notch_depth_below_floor_nm,notch_width_nm,total_depth_nm,fill_top_above_nitride_top_nm,oxide_on_nitride_nm
+cone-defect-etch-2d.png,"ConeDefect_fps_geometry (after trench etch + defect, before fill)",6.6,6.3,144.4,377.5,219.7,165.6,62.0,63.9,113.0,46.4,332.6,nan,0.0
+sti-after-fill-2d.png,Review1_Fig1_FinalSTI_fps_geometry (after oxide fill / planarization),4.8,4.8,144.2,381.6,226.0,154.6,62.6,62.8,105.8,43.5,331.7,-72.1,0.0
+final-structure-2d.png,final_structure_fps_geometry (final structure),6.1,6.1,140.2,390.2,231.7,158.5,62.5,62.8,103.7,61.0,335.4,-18.3,42.7

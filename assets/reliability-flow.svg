@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="470" viewBox="0 0 980 470" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Reliability risk chain</title>
+<desc id="d">Flowchart linking cone defect, sharp tip and oxide thinning to dielectric stress and discussed reliability mechanisms.</desc>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2a30"/></marker>
+<marker id="arrR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+<marker id="arrB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f6fb2"/></marker>
+</defs>
+<rect width="980" height="470" fill="#ffffff"/>
+<text x="490.0" y="30.0" font-size="18" text-anchor="middle" font-weight="bold" fill="#1f2a30">From process defect to reliability risk</text>
+<text x="490.0" y="50.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#5b6770">Solid boxes: geometry documented in the report  ·  Dashed boxes: mechanisms discussed, not simulated</text>
+<rect x="40.0" y="80.0" width="200.0" height="60.0" rx="8" fill="#f5f7f8" stroke="#c9d2d7" stroke-width="1.2"/>
+<text x="140.0" y="106.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">Cone defect</text>
+<text x="140.0" y="123.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#5b6770">100 nm Si spike</text>
+<rect x="40.0" y="180.0" width="200.0" height="60.0" rx="8" fill="#f5f7f8" stroke="#c9d2d7" stroke-width="1.2"/>
+<text x="140.0" y="206.1" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">Sharp tip</text>
+<text x="140.0" y="223.1" font-size="13" text-anchor="middle" font-weight="normal" fill="#5b6770">r ≈ 8–12 nm</text>
+<rect x="280.0" y="180.0" width="200.0" height="60.0" rx="8" fill="#f5f7f8" stroke="#c9d2d7" stroke-width="1.2"/>
+<text x="380.0" y="206.1" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">Field enhancement</text>
+<text x="380.0" y="223.1" font-size="13" text-anchor="middle" font-weight="normal" fill="#5b6770">β ≈ 10 (estimate)</text>
+<rect x="280.0" y="80.0" width="200.0" height="60.0" rx="8" fill="#f5f7f8" stroke="#c9d2d7" stroke-width="1.2"/>
+<text x="380.0" y="106.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">Oxide thinning</text>
+<text x="380.0" y="123.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#5b6770">~150 → 50–70 nm</text>
+<rect x="530.0" y="130.0" width="190.0" height="60.0" rx="8" fill="#fdecea" stroke="#c0392b" stroke-width="1.2"/>
+<text x="625.0" y="156.1" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">Higher local</text>
+<text x="625.0" y="173.1" font-size="13" text-anchor="middle" font-weight="normal" fill="#5b6770">dielectric stress</text>
+<line x1="140.0" y1="140.0" x2="140.0" y2="176.0" stroke="#1f2a30" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="244.0" y1="210.0" x2="276.0" y2="210.0" stroke="#1f2a30" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="244.0" y1="110.0" x2="276.0" y2="110.0" stroke="#1f2a30" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="484.0" y1="110.0" x2="526.0" y2="150.0" stroke="#1f2a30" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="484.0" y1="210.0" x2="526.0" y2="172.0" stroke="#1f2a30" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="760.0" y="70.0" width="190.0" height="58.0" rx="8" fill="#ffffff" stroke="#5b6770" stroke-width="1.2" stroke-dasharray="5,4"/>
+<text x="855.0" y="95.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">Leakage</text>
+<text x="855.0" y="112.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#5b6770">TAT / FN tunneling</text>
+<line x1="724.0" y1="160.0" x2="756.0" y2="99.0" stroke="#1f2a30" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="760.0" y="150.0" width="190.0" height="58.0" rx="8" fill="#ffffff" stroke="#5b6770" stroke-width="1.2" stroke-dasharray="5,4"/>
+<text x="855.0" y="175.1" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">Mechanical stress</text>
+<text x="855.0" y="192.1" font-size="13" text-anchor="middle" font-weight="normal" fill="#5b6770">Si/SiO₂ CTE mismatch</text>
+<line x1="724.0" y1="160.0" x2="756.0" y2="179.0" stroke="#1f2a30" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="760.0" y="230.0" width="190.0" height="58.0" rx="8" fill="#ffffff" stroke="#5b6770" stroke-width="1.2" stroke-dasharray="5,4"/>
+<text x="855.0" y="255.1" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">Premature breakdown</text>
+<text x="855.0" y="272.1" font-size="13" text-anchor="middle" font-weight="normal" fill="#5b6770">TDDB-type failure</text>
+<line x1="724.0" y1="160.0" x2="756.0" y2="259.0" stroke="#1f2a30" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="530.0" y="330.0" width="420.0" height="70.0" rx="8" fill="#ffffff" stroke="#5b6770" stroke-width="1.2" stroke-dasharray="5,4"/>
+<text x="740.0" y="361.1" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">Reliability qualification context (report §8.2)</text>
+<text x="740.0" y="378.1" font-size="13" text-anchor="middle" font-weight="normal" fill="#5b6770">TDDB · SILC · HCI — discussed as evaluation methods</text>
+<line x1="855.0" y1="292.0" x2="855.0" y2="326.0" stroke="#1f2a30" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="40.0" y="330.0" width="440.0" height="70.0" rx="8" fill="#fff8e6" stroke="#c9a227" stroke-width="1.2"/>
+<text x="260.0" y="361.1" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">Not simulated in this project</text>
+<text x="260.0" y="378.1" font-size="13" text-anchor="middle" font-weight="normal" fill="#5b6770">leakage current · breakdown voltage · stress field · lifetime</text>
+<text x="490.0" y="460.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#5b6770" font-style="italic">Conceptual causal chain. No electrical, stress or reliability simulation results exist in this repository or the report's TCAD evidence.</text>
+</svg>

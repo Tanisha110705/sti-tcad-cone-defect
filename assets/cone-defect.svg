@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="480" viewBox="0 0 880 480" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Cone defect geometry</title>
+<desc id="d">Close-up of the reported cone defect: 100 nm height, 50 nm base, 8-12 nm tip radius.</desc>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2a30"/></marker>
+<marker id="arrR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+<marker id="arrB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f6fb2"/></marker>
+</defs>
+<rect width="880" height="480" fill="#ffffff"/>
+<text x="440.0" y="30.0" font-size="18" text-anchor="middle" font-weight="bold" fill="#1f2a30">Cone-defect geometry (reported)</text>
+<text x="440.0" y="50.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#5b6770">Silicon protrusion rising from the trench floor, tip at mid-trench depth</text>
+<clipPath id="cl"><rect x="300" y="72" width="560" height="360"/></clipPath>
+<g clip-path="url(#cl)">
+<polygon points="402.0,-340.4 798.0,-340.4 798.0,-50.0 782.6,390.0 655.0,390.0 605.3,170.7 604.0,170.4 602.7,170.2 601.3,170.0 600.0,170.0 598.7,170.0 597.3,170.2 596.0,170.4 594.7,170.7 545.0,390.0 417.4,390.0 402.0,-50.0" fill="#a8e6f2" stroke="#3fa7bd" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="314.0,-50.0 402.0,-50.0 417.4,390.0 545.0,390.0 594.7,170.7 596.0,170.4 597.3,170.2 598.7,170.0 600.0,170.0 601.3,170.0 602.7,170.2 604.0,170.4 605.3,170.7 655.0,390.0 782.6,390.0 798.0,-50.0 886.0,-50.0 886.0,676.0 314.0,676.0" fill="#8a9ea8" stroke="#5d727c" stroke-width="1" stroke-linejoin="round"/>
+</g>
+<line x1="690.0" y1="390.0" x2="690.0" y2="170.0" stroke="#1f2a30" stroke-width="1.5" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<line x1="604.0" y1="170.0" x2="696.0" y2="170.0" stroke="#5b6770" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="698.0" y="278.0" font-size="12" text-anchor="start" font-weight="normal" fill="#5b6770">height</text>
+<text x="698.0" y="294.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2a30">≈ 100 nm</text>
+<line x1="545.0" y1="409.8" x2="655.0" y2="409.8" stroke="#1f2a30" stroke-width="1.5" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<text x="600.0" y="429.8" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">base ≈ 50 nm</text>
+<circle cx="600.0" cy="192.0" r="22.0" fill="none" stroke="#c0392b" stroke-width="1.2" stroke-dasharray="3,2"/>
+<line x1="580.0" y1="176.0" x2="530.0" y2="152.0" stroke="#c0392b" stroke-width="1"/>
+<text x="526.0" y="140.0" font-size="12.5" text-anchor="end" font-weight="bold" fill="#c0392b">tip radius ≈ 8–12 nm</text>
+<text x="526.0" y="155.0" font-size="11.5" text-anchor="end" font-weight="normal" fill="#c0392b">(parameter table: ~10 nm)</text>
+<text x="485.6" y="335.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#1d6f80">HDP oxide</text>
+<text x="30.0" y="92.0" font-size="14" text-anchor="start" font-weight="bold" fill="#1f2a30">Reported cone parameters</text>
+<text x="30.0" y="116.0" font-size="12.5" text-anchor="start" font-weight="bold" fill="#1f2a30">Height : base</text>
+<text x="130.0" y="116.0" font-size="12.5" text-anchor="start" font-weight="normal" fill="#5b6770">≈ 2 : 1</text>
+<text x="30.0" y="138.0" font-size="12.5" text-anchor="start" font-weight="bold" fill="#1f2a30">Tip position</text>
+<text x="130.0" y="138.0" font-size="12.5" text-anchor="start" font-weight="normal" fill="#5b6770">≈ 100 nm above floor</text>
+<text x="130.0" y="160.0" font-size="12.5" text-anchor="start" font-weight="normal" fill="#5b6770">= mid-depth of 200 nm trench</text>
+<text x="30.0" y="182.0" font-size="12.5" text-anchor="start" font-weight="bold" fill="#1f2a30">Core</text>
+<text x="130.0" y="182.0" font-size="12.5" text-anchor="start" font-weight="normal" fill="#5b6770">crystalline Si</text>
+<text x="30.0" y="204.0" font-size="12.5" text-anchor="start" font-weight="bold" fill="#1f2a30">Flanks</text>
+<text x="130.0" y="204.0" font-size="12.5" text-anchor="start" font-weight="normal" fill="#5b6770">residue / native oxide</text>
+<text x="130.0" y="226.0" font-size="12.5" text-anchor="start" font-weight="normal" fill="#5b6770">(report §5.1)</text>
+<text x="30.0" y="268.0" font-size="12.5" text-anchor="start" font-weight="bold" fill="#1f2a30">First-order field enhancement</text>
+<text x="30.0" y="286.0" font-size="12.5" text-anchor="start" font-weight="normal" fill="#c0392b">β ≈ h / r = 100 / 10 ≈ 10</text>
+<text x="30.0" y="304.0" font-size="11.5" text-anchor="start" font-weight="normal" fill="#5b6770">(matches the report's β ≈ 10;</text>
+<text x="30.0" y="318.0" font-size="11.5" text-anchor="start" font-weight="normal" fill="#5b6770">the report does not state its method)</text>
+<text x="440.0" y="470.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#5b6770" font-style="italic">Conceptual drawing at reported dimensions; not extracted from a TCAD structure. Screenshot geometry differs — see defect-comparison.svg.</text>
+</svg>

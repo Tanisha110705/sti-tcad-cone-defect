@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="615" viewBox="0 0 760 615" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Anisotropic trench etch</title>
+<desc id="d">Trench cross-section with reported depth, widths, sidewall angle and corner radius.</desc>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2a30"/></marker>
+<marker id="arrR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+<marker id="arrB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f6fb2"/></marker>
+</defs>
+<rect width="760" height="615" fill="#ffffff"/>
+<text x="380.0" y="30.0" font-size="18" text-anchor="middle" font-weight="bold" fill="#1f2a30">Anisotropic RIE trench etch — reported geometry</text>
+<text x="380.0" y="50.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#5b6770">Directional ion bombardment + chemical etch through the opened nitride / pad-oxide hard mask</text>
+<polygon points="171.0,300.0 294.5,300.0 301.1,490.0 458.9,490.0 465.5,300.0 589.0,300.0 589.0,556.5 171.0,556.5" fill="#8a9ea8" stroke="#5d727c" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="171.0,288.6 294.5,288.6 294.5,300.0 171.0,300.0" fill="#56c3d8" stroke="#3fa7bd" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="171.0,174.6 294.5,174.6 294.5,288.6 171.0,288.6" fill="#e6dc84" stroke="#a59a3a" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="465.5,288.6 589.0,288.6 589.0,300.0 465.5,300.0" fill="#56c3d8" stroke="#3fa7bd" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="465.5,174.6 589.0,174.6 589.0,288.6 465.5,288.6" fill="#e6dc84" stroke="#a59a3a" stroke-width="1" stroke-linejoin="round"/>
+<line x1="323.0" y1="117.6" x2="323.0" y2="167.6" stroke="#1f6fb2" stroke-width="1.6" marker-end="url(#arrB)"/>
+<line x1="361.0" y1="117.6" x2="361.0" y2="167.6" stroke="#1f6fb2" stroke-width="1.6" marker-end="url(#arrB)"/>
+<line x1="399.0" y1="117.6" x2="399.0" y2="167.6" stroke="#1f6fb2" stroke-width="1.6" marker-end="url(#arrB)"/>
+<line x1="437.0" y1="117.6" x2="437.0" y2="167.6" stroke="#1f6fb2" stroke-width="1.6" marker-end="url(#arrB)"/>
+<text x="462.0" y="136.6" font-size="12" text-anchor="start" font-weight="normal" fill="#1f6fb2">ions</text>
+<line x1="609.9" y1="300.0" x2="609.9" y2="490.0" stroke="#1f2a30" stroke-width="1.5" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<line x1="465.5" y1="300.0" x2="615.9" y2="300.0" stroke="#5b6770" stroke-width="0.8" stroke-dasharray="3,3"/>
+<line x1="458.9" y1="490.0" x2="615.9" y2="490.0" stroke="#5b6770" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="619.9" y="391.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2a30">200 nm</text>
+<text x="619.9" y="407.0" font-size="12" text-anchor="start" font-weight="normal" fill="#5b6770">depth</text>
+<line x1="294.5" y1="103.4" x2="465.5" y2="103.4" stroke="#1f2a30" stroke-width="1.5" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<line x1="294.5" y1="98.6" x2="294.5" y2="300.0" stroke="#5b6770" stroke-width="0.8" stroke-dasharray="3,3"/>
+<line x1="465.5" y1="98.6" x2="465.5" y2="300.0" stroke="#5b6770" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="380.0" y="95.4" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">180 nm top width</text>
+<line x1="301.1" y1="507.1" x2="458.9" y2="507.1" stroke="#1f2a30" stroke-width="1.5" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<text x="380.0" y="527.1" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">≈ 170 nm bottom width</text>
+<path d="M337.1,490.0 A36,36 0 0 0 302.4,454.0" fill="none" stroke="#c0392b" stroke-width="1.4"/>
+<text x="341.1" y="468.0" font-size="13" text-anchor="start" font-weight="bold" fill="#c0392b">≈ 88°</text>
+<circle cx="294.5" cy="300.0" r="9" fill="none" stroke="#c0392b" stroke-width="1.4"/>
+<line x1="285.5" y1="304.0" x2="163.0" y2="344.0" stroke="#c0392b" stroke-width="1"/>
+<text x="159.0" y="348.0" font-size="12" text-anchor="end" font-weight="bold" fill="#c0392b">top corner</text>
+<text x="159.0" y="363.0" font-size="12" text-anchor="end" font-weight="bold" fill="#c0392b">radius ≈ 15 nm</text>
+<text x="159.0" y="378.0" font-size="11" text-anchor="end" font-weight="normal" fill="#5b6770">(stress / field</text>
+<text x="159.0" y="392.0" font-size="11" text-anchor="end" font-weight="normal" fill="#5b6770">concentration)</text>
+<text x="232.8" y="423.5" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">Active Si</text>
+<text x="527.2" y="423.5" font-size="13" text-anchor="middle" font-weight="bold" fill="#1f2a30">Active Si</text>
+<text x="232.8" y="236.3" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2a30">Si₃N₄ 120 nm</text>
+<text x="527.2" y="236.3" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2a30">Si₃N₄ 120 nm</text>
+<text x="380.0" y="580.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#5b6770">Aspect ratio 200 / 180 ≈ 1.1 (reported ~1.1)</text>
+<text x="380.0" y="605.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#5b6770" font-style="italic">Conceptual drawing at reported dimensions. The Sentaurus screenshots show a more tapered trench (≈ 62–64°); see docs/geometry-analysis.md.</text>
+</svg>

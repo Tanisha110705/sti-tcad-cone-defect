@@ -1,0 +1,24 @@
+parameter,value,unit,report_section,source_type,note
+technology_node,180,nm,2.1 / 3.1,reported,educational reference node
+substrate_dopant,boron,,3.2 / 4.3,reported,
+substrate_doping,1.4e15,cm^-3,4.3,reported,body text renders it as 1.410cm (superscript lost)
+substrate_orientation,(100),,3.2 / 3.3,reported,
+substrate_resistivity,~10,ohm-cm,3.2 / 3.3,reported,body text renders it as 10cm (ohm symbol lost)
+pad_oxide_thickness,12,nm,4.3,reported,design range 10-15 nm (3.2)
+nitride_thickness,120,nm,4.3,reported,design range 100-150 nm (3.2); LPCVD
+trench_depth,200,nm,4.3 / 6.1,reported,target range 200-300 nm (3.2)
+trench_top_width,180,nm,4.3 / 6.1,reported,
+trench_bottom_width,170,nm,6.1,reported,approximate
+trench_aspect_ratio,~1.1,,4.3,reported,
+sidewall_angle,88,deg,6.1,reported,from horizontal
+top_corner_radius,15,nm,6.1,reported,
+cone_height,100,nm,4.3 / 6.1,reported,
+cone_base_diameter,50,nm,6.1,reported,
+cone_tip_radius,~10,nm,4.3,reported,8-12 nm in 6.1
+cone_height_to_base,2:1,,6.1,reported,
+hdp_oxide_thickness,400,nm,4.3,reported,
+cmp_removal_rate,Standard,nm/min,4.3,reported,no numeric value given
+oxide_nominal_trench_bottom,~150,nm,6.1 / 6.3,reported,measurement definition not stated
+oxide_above_cone_tip,50-70,nm,6.1,reported,~60 nm in 6.3 and 9
+surface_variation_after_cmp,<5,nm,6.1,reported,
+field_enhancement_factor_beta,~10,,6.2,reported estimate,method not stated; equals h/r = 100/10
